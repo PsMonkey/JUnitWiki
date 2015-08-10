@@ -4,5 +4,6 @@
 * [持續測試](Continuous-testing.md)
 * [Assertion](Assertions.md)
 * [test fixture](Test-fixtures.md)
+* [Rule](Rules.md)
 * [略過 test](Ignoring-tests.md)
 * [test 的執行順序](Test-execution-order.md)
